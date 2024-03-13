@@ -1,0 +1,1 @@
+export {webPrefix} from './webPrefix';
