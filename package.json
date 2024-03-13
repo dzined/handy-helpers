@@ -1,0 +1,26 @@
+{
+  "name": "handy-helpers",
+  "version": "1.0.0",
+  "description": "A collection of JavaScript utility functions for common tasks such as counting words and characters, prefixing web URLs, converting month numbers to labels, and cleaning strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzined/handy-helpers.git"
+  },
+  "keywords": [
+    "utilities",
+    "helpers",
+    "text manipulation",
+    "URL handling",
+    "date utilities"
+  ],
+  "author": "Matt <matt@dzined.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dzined/handy-helpers/issues"
+  },
+  "homepage": "https://github.com/dzined/handy-helpers#readme"
+}
