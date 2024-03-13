@@ -1,6 +1,6 @@
 {
   "name": "handy-helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of JavaScript utility functions for common tasks such as counting words and characters, prefixing web URLs, converting month numbers to labels, and cleaning strings.",
   "main": "index.js",
   "scripts": {
